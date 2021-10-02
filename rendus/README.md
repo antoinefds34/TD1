@@ -1,2 +1,0 @@
-
-Voir fichier `Exercice.pdf`
